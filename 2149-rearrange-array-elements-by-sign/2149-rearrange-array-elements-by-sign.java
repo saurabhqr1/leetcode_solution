@@ -1,18 +1,19 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        ArrayList<Integer> temp1 = new ArrayList<>();
-        ArrayList<Integer> temp2 = new ArrayList<>();
-        for(int i = 0 ; i<nums.length ; i++){
-            if(nums[i] >= 0) temp1.add(nums[i]);
-            else temp2.add(nums[i]);
+        int n = nums.length;
+        int[] result = new int[n];
+        int i = 0;
+        int j = 1;
+        for(int ele : nums){
+            if(ele>=0){
+                result[i] = ele;
+                i += 2;
+            }
+            else{
+                result[j] = ele;
+                j += 2;
+            }
         }
-        if(temp1.size() == 0 || temp2.size() == 0 ) return nums;
-        int m = 0;
-        int n = 0;
-        for(int i = 0 ; i<nums.length ; i++){
-            if(i%2 == 0) nums[i] = temp1.get(m++);
-            else nums[i] = temp2.get(n++);
-        }
-        return nums;
+        return result;
     }
 }
