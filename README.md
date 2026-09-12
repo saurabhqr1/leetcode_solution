@@ -54,9 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhqr1/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhqr1/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
