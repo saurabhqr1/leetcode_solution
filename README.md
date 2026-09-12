@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0018-4sum) |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saurabhqr1/leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
