@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/saurabhqr1/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/saurabhqr1/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/saurabhqr1/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhqr1/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0229-majority-element-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/saurabhqr1/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saurabhqr1/leetcode_solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saurabhqr1/leetcode_solution/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/saurabhqr1/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/saurabhqr1/leetcode_solution/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
