@@ -1,8 +1,29 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        for(int i = m ; i<m+n; i++){
-            nums1[i] = nums2[i-m];
+        List<Integer> result = new ArrayList<>();
+        int i = 0;
+        int j = 0;
+        while(i<m && j<n){
+            if(nums1[i] <= nums2[j]){
+                result.add(nums1[i]);
+                i++;
+            }
+            else{
+                result.add(nums2[j]);
+                j++;
+            }
         }
-        Arrays.sort(nums1);
+        while(i<m){
+            result.add(nums1[i]);
+            i++;
+        }
+        while(j<n){
+            result.add(nums2[j]);
+            j++;
+        }
+        int l = result.size();
+        for(int k = 0; k<l; k++){
+            nums1[k] = result.get(k);
+        }
     }
 }
